@@ -1,6 +1,6 @@
 # Hackathon Project: Figma Template to Multi-Page E-Commerce Website
 
-This project involves converting a Figma template into a fully functional, responsive e-commerce website using **Next.js** and **React**. The project includes 15 multiple pages such as Home, About, Contact, FAQ, and various e-commerce-related pages like product listings, product details, cart, checkout, and more. It is fully responsive and follows best practices for modern web development.
+This project involves converting a Figma template into a fully functional, responsive e-commerce website using **Next.js** and **tailwand css**. The project includes 15 multiple pages such as Home, About, Contact, FAQ, and various e-commerce-related pages like product listings, product details, cart, checkout, and more. It is fully responsive and follows best practices for modern web development.
 
 ---
 
@@ -48,24 +48,20 @@ The goal of this project is to demonstrate the development of a complete e-comme
 12. **Checkout Page**
 13. **Payment Page**
 14. **Order Confirmation Page**
+15. **Product Page**
+
 
 ---
 
 ## Technologies Used
 
 - **Framework:** Next.js
-- **Frontend:** React, Tailwind CSS
-- **State Management:** Context API / Redux
+- **Frontend:** Tailwind CSS
 - **Icons & Fonts:** React Fonts, Google Fonts
 
 ---
 
-## Getting Started
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
 
 
