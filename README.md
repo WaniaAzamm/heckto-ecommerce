@@ -10,11 +10,7 @@ This project involves converting a Figma template into a fully functional, respo
 2. [Features](#features)
 3. [Pages Included](#pages-included)
 4. [Technologies Used](#technologies-used)
-5. [Getting Started](#getting-started)
-    - [Installation](#installation)
-    - [Running the Application](#running-the-application)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ---
 
