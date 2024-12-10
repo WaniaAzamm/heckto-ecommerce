@@ -31,7 +31,7 @@ const BlogCard = ({
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                Sarfaraz Unar
+                      Blog
               </p>
             </div>
             <div className="flex justify-start items-center gap-1">
@@ -41,7 +41,7 @@ const BlogCard = ({
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                08-12-2024
+                11-12-2024
               </p>
             </div>
           </div>
@@ -81,7 +81,7 @@ const BlogCard = ({
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                Sarfaraz Unar
+Blog
               </p>
             </div>
             <div className="flex justify-start items-center gap-1">
@@ -91,7 +91,7 @@ const BlogCard = ({
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                08-12-2024
+                11-12-2024
               </p>
             </div>
           </div>
@@ -131,7 +131,7 @@ const BlogCard = ({
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                Sarfaraz Unar
+             Blog
               </p>
             </div>
             <div className="flex justify-start items-center gap-1">
@@ -141,7 +141,7 @@ const BlogCard = ({
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                08-12-2024
+                11-12-2024
               </p>
             </div>
           </div>
