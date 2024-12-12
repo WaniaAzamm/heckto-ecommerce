@@ -31,7 +31,7 @@ const BlogCard = ({
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                      Blog
+                      Surf Auxion
               </p>
             </div>
             <div className="flex justify-start items-center gap-1">
@@ -41,8 +41,7 @@ const BlogCard = ({
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                11-12-2024
-              </p>
+Aug 09 2020              </p>
             </div>
           </div>
 
@@ -81,8 +80,7 @@ const BlogCard = ({
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-Blog
-              </p>
+Surf Auxion              </p>
             </div>
             <div className="flex justify-start items-center gap-1">
               <SlCalender className="text-[#FFA454] size-3" />
@@ -91,8 +89,7 @@ Blog
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                11-12-2024
-              </p>
+Aug 09 2020              </p>
             </div>
           </div>
 
@@ -131,8 +128,7 @@ Blog
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-             Blog
-              </p>
+Surf Auxion              </p>
             </div>
             <div className="flex justify-start items-center gap-1">
               <SlCalender className="text-[#FFA454] size-3" />
@@ -141,8 +137,7 @@ Blog
                   size == "MINI" ? "bg-white" : "bg-pink/20"
                 }`}
               >
-                11-12-2024
-              </p>
+Aug 09 2020              </p>
             </div>
           </div>
 
