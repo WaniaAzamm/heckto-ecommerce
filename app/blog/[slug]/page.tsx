@@ -23,11 +23,11 @@ const SingleBlog = () => {
                     <div className='flex justify-start gap-4'>
                         <div className="flex justify-start items-center gap-1">
                             <FaPenNib className='text-pink size-3' />
-                            <p className={`font-josefin-sans text-navyBlue text-sm bg-pink/20 `}>Sarfaraz Unar</p>
+                            <p className={`font-josefin-sans text-navyBlue text-sm bg-pink/20 `}>Surf Auxion</p>
                         </div>
                         <div className="flex justify-start items-center gap-1">
                             <SlCalender className='text-[#FFA454] size-3' />
-                            <p className={`font-josefin-sans text-navyBlue text-sm bg-pink/20`}>08-12-2024</p>
+                            <p className={`font-josefin-sans text-navyBlue text-sm bg-pink/20`}>Aug 09 2020</p>
                         </div>
                     </div>
 
